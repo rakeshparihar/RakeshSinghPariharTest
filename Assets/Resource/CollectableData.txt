@@ -1,0 +1,22 @@
+﻿[
+  {
+    "ItemName": "RedCube",
+    "ItemInitialScore": 15,
+    "ItemColor": {
+      "r": 1,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    }
+  },
+  {
+    "ItemName": "BlueCube",
+    "ItemInitialScore": 20,
+    "ItemColor": {
+      "r": 0,
+      "g": 0.1316680908203125,
+      "b": 1,
+      "a": 1
+    }
+  }
+]
