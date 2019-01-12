@@ -6,6 +6,11 @@ Unity Coding Challenge(Rolling Ball)
 &nbsp Control a rolling sphere and
  collide with 10 different randomly placed cubes of two colors on a flat plane.
  
+ <h2> Scoring </h2>
+<p>Once the sphere collides with a cube, the score will increment by the defined amount in the
+parameters set by the data. If you collide with a preceding cube of the same color, that cube’sscore will be multiplied by the current streak of “colliding with the same color”. The streak should
+be displayed on the screen along with your score.</p>
+
  <h2> Input Controls </h2>
  &nbsp Use Left/Right arrow key to move the Sphare in Left/Right Direction.<br>
  &nbsp Use Up/Down arrow key to move the Sphare in Forward/Backward Direction.<br>
