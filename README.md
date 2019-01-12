@@ -16,8 +16,7 @@ be displayed on the screen along with your score.</p>
  &nbsp Use Up/Down arrow key to move the Sphare in Forward/Backward Direction.<br>
  
  <h2> Scenes </h2>
- <p>
-    &nbsp There are two Scene <b>"Main Menu" </b> and <b> "Game Scene" </b>. Game Loaded from Main Menu scene. </p>
+ <p>&nbsp There are two Scene <b>"Main Menu" </b> and <b> "Game Scene" </b>. Game Loaded from Main Menu scene. </p>
  
  <h2> Scripts </h2>
  <h3> Classes </h3>
@@ -26,7 +25,7 @@ be displayed on the screen along with your score.</p>
  <b> InputController </b> : Handle Player Input data  </br>
  <b> LoadingController </b> : Handle Loading UI  </br>
  <b> MainMenuController </b> : Handle MainMenu UI  </br>
- <b> Pickables </b> : Use to access collectable item
+ <b> Pickables </b> : Use to access collectable item </br>
  <b> PlayerManager </b> : Handle Player movement and player data  </br>
  <b> ResultScreen </b> : Handle ResultScreen UI  </br>
  <b> Spawner </b> : Handle SpawnPoint in Game  </br>
