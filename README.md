@@ -44,5 +44,6 @@ be displayed on the screen along with your score.</p>
  <p>
  <b> Iinput </b> : Reuse for player input data  </br></p>
   
- 
+ <h3>Third Party Plugins : Lit Json </h3>
+ A .Net library to handle conversions from and to JSON (JavaScript Object Notation) strings. This fork has been edited specificity for use with Unity3D.
  
